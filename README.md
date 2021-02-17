@@ -1,7 +1,7 @@
 ## Welcome to Jaxon's Game of Life!!!
 
 ### Installation
-    Note, in order to run this program, you must have python installed into your path variables, and have the `curses` module installed on your instance of python.
+Note, in order to run this program, you must have python installed into your path variables, and have the `curses` module installed on your instance of python.
 
 ```
 pip install curses
@@ -11,3 +11,5 @@ pip install curses
 ```
 $ python GameOfLife.py "NumOfGenerations"
 ```
+
+If the NumOfGenerations is left out, then the program will assume 400.
